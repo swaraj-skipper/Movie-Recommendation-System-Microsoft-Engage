@@ -15,3 +15,16 @@ It's an movie recommendation web app which uses **Content** based filtering.
 ## Deploy
 To run this project in your local
 Clone this repository
+```bash
+  git https://github.com/swaraj-skipper/Movie-Recommendation-System-Microsoft-Engage.git
+  cd frontend/
+```
+Run the following in terminal
+```bash
+  pip install streamlit
+```
+
+Run App
+```bash
+py -m streamlit run app.py
+```
