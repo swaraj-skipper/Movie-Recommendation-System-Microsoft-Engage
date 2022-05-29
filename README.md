@@ -2,8 +2,8 @@
 # Movies Top - 5
 An web-app which recommends movies based on search
 # DEMO
-uthoob<br/>
-githubs<br/>
+[Youtube Link](https://studio.youtube.com/video/uQqW3SjQ8fc/edit)<br/>
+[Demo Link](https://recommend5.herokuapp.com/)<br/>
 ## Tech Stack Used
 Python<br/>
 Streamlit<br/>
