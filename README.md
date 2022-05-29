@@ -19,15 +19,21 @@ Clone this repository
   git https://github.com/swaraj-skipper/Movie-Recommendation-System-Microsoft-Engage.git
   cd frontend/
 ```
-Open Jupyter notebook and run the code to get similarity.pkl
+Open Jupyter notebook and run the code to get similarity.pkl<br/>
 Get tmdb_5000_movies,tmdb_5000_credits from Kaggle
 
 ##terminal
 Run the following in terminal
 ```bash
   pip install streamlit
+```
+```bash
   pip install manager
+```
+```bash
   pip install pickle
+```
+```bash
   pip install requests
 ```
 
