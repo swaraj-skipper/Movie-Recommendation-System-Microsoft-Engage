@@ -1,0 +1,65 @@
+/* sidebar  */
+
+
+
+/* button */
+.css-1q8dd3e:hover{
+    color: rgb(0, 115, 255);
+    border:1px solid rgb(0, 115, 255);
+}
+
+.css-1q8dd3e:active{
+    background-color: rgb(0, 115, 255);
+    color: white;
+    border:1px solid rgb(0, 115, 255);
+}
+.css-1q8dd3e:focus:not(:active){
+ background-color: rgb(0, 115, 255);
+    color: white;
+    border:1px solid rgb(0, 115, 255);   
+}
+.css-1q8dd3e:focus{
+    box-shadow: rgb(0, 115, 255) 0px 0px 0px 0.2rem;
+}
+
+
+/* body  */
+.css-1v3fvcr{
+    background-image: url(https://raw.githubusercontent.com/swaraj-skipper/IMAGE-STORAGE/main/bgimg.jpg);
+}
+
+#MainMenu{
+    visibility: hidden;
+}
+
+/* footer */
+footer{
+    /* <a href="" class = "css-z3au9t egzxvld1">Instagram</a> */
+    visibility: hidden;
+}
+.css-v37k9u a{
+    text-align: center;
+    list-style: none;
+    padding: 15px;
+    margin: 20px;
+    text-decoration: none;
+    /* background-color: rgb(0, 115, 255); */
+}
+.css-1pd56a0{
+    text-align: center;
+}
+.st-d8 {
+    border-bottom-color: rgb(0, 115, 255);
+}
+
+.st-d7 {
+    border-top-color: rgb(0, 115, 255);
+}
+
+.st-d6 {
+    border-right-color: rgb(0, 115, 255);
+}
+
+.st-d5 {
+    border-left-color: rgb(0, 115, 255);
+}
