@@ -22,7 +22,7 @@ Clone this repository
 Open Jupyter notebook and run the code to get similarity.pkl<br/>
 Get tmdb_5000_movies,tmdb_5000_credits from Kaggle
 
-##terminal
+## terminal
 Run the following in terminal
 ```bash
   pip install streamlit
